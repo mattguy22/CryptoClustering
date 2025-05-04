@@ -130,5 +130,5 @@ This project was built as part of the Module 20 Unsupervised Learning Challenge.
 - [Pandas Documentation](https://pandas.pydata.org)  
 - [hvPlot Documentation](https://hvplot.holoviz.org/)  
 - [Principal Component Analysis - Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)  
-- **DU Bootcamp Module 19**: Source of starter code, data, project structure, PCA application, and elbow visualization
+- **DU Bootcamp Module 19**: Source of starter code, data, project structure, PCA application, and elbow visualization.  
 - **ChatGPT**: Assisted with syntax for plotting code cells, structured commenting.  
